@@ -7,6 +7,6 @@
 * Correct guess
 ![Correct guess](https://github.com/StefanButacu/Hangman/blob/master/gitImages/win.JPG)
 * Wrong guess
-![Wrong guess](https://github.com/StefanButacu/Hangman/blob/master/gitImages/win.JPG)
+![Wrong guess](https://github.com/StefanButacu/Hangman/blob/master/gitImages/lost.JPG)
 
 Code inspired from: http://www.flashbynight.com/tutes/hangmanhtml5/
